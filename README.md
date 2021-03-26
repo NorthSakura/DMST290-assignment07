@@ -1,20 +1,20 @@
-# Assignment 1: Hello World
-Plain and simple, no need to rock the boat.
+# Assignment 7: Typography
+Original Website Link:http://duncangrubbs.digitalscholar.rochester.edu/assignment02/
 
-## Interesting Features
-- All of the content is blatantly stolen from Wikipedia
-- A leaflet.js map added, featuring a thrilling view of Rochester
-- A rather nice (in my biased opinion) usage of CSS grid, including
-  - Media query handling of smaller screens
-  - Smooth transitions from centered column to right-skewed with a left gutter (to hold a nav I never switched over)
-- Everyone's favorite feature to hate: smooth scrolling
+## Original Fonts
+- Arial
+- Roboto Slab
+- Inter
+- Helvetica
 
-## Updates for Assignment 2
-> By Duncan Grubbs
-### Layout
-- I made the nav bar sticky so that wherever you are in your reading you can easily jump to a new spot.
+## Newly Picked Fonts
 
-### Embellishments
-- I changed the font, font color, as well as the background color. I did this for partially because I thought it looked better, but I also wanted to improve the contrast between the background and the text for better readability.
-- I rouned the corners of images. I just think this looks nicer.
-- I changed the text highlight color to be Rochester yellow and made the main image fades in just for fun!
+- Grenze Gotisch for titles
+  - Grenze Gotisch has more modern design compares to Arial, which can attract more attention if the title use this font.
+  - Grenze Gotisch is not only modern but also human, contains a lot of dramatic details, and more interesting to look at.
+
+- Orbitron for navigation
+  - Orbitron is more grometric and also has a feeling of sci-fi, which is more attractive than Helvetica.
+  - Also Orbitron can better cooperate with other graphics and logos, which is also suitable here.
+- Cabin for body
+  - Since the website is about introducing a city, therefore I think there should be more humanist sans which can provide reader with a feeling of comfort.
